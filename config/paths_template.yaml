@@ -1,0 +1,15 @@
+project_root: "/path/to/clinical-lead-masking-ecg"
+
+ptbxl_raw_root: "/path/to/ptb-xl-a-large-publicly-available-electrocardiography-dataset-1.0.3"
+chapman_raw_root: "/path/to/chapman"
+
+ptbxl_processed_dir: "/path/to/processed/ptbxl"
+chapman_processed_dir: "/path/to/processed/chapman"
+
+output_root: "/path/to/outputs"
+
+checkpoint_dir: "/path/to/outputs/checkpoints"
+prediction_dir: "/path/to/outputs/predictions"
+metrics_dir: "/path/to/outputs/metrics"
+figure_dir: "/path/to/outputs/figures"
+log_dir: "/path/to/outputs/logs"
