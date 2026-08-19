@@ -1,0 +1,15 @@
+project_root: "./"
+
+ptbxl_raw_root: "./data/raw/ptbxl"
+chapman_raw_root: "./data/raw/chapman"
+
+ptbxl_processed_dir: "./data/processed/ptbxl"
+chapman_processed_dir: "./data/processed/chapman"
+
+output_root: "./outputs"
+
+checkpoint_dir: "./outputs/checkpoints"
+prediction_dir: "./outputs/predictions"
+metrics_dir: "./outputs/metrics"
+figure_dir: "./outputs/figures"
+log_dir: "./outputs/logs"

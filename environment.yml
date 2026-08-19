@@ -1,0 +1,22 @@
+name: clinical-lead-masking-ecg
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - numpy
+  - pandas
+  - scikit-learn
+  - scipy
+  - matplotlib
+  - tqdm
+  - openpyxl
+  - pyyaml
+  - pip
+  - jupyter
+  - ipykernel
+  - pip:
+      - wfdb
+      - torch

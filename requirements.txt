@@ -1,0 +1,13 @@
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+tqdm
+wfdb
+openpyxl
+pyyaml
+torch
+seaborn
+jupyter
+ipykernel
